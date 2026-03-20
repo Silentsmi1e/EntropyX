@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Beta Release!",
+        "description": "Client beta released 03/20/26.",
+        "date": "03/20/26"
+    },
+    {
+        "title": "WASM client",
+        "description": "Run Entropy in the browser without downloading!",
+        "date": "03/20/26"
+    },
+    {
+        "title": "Alts manager",
+        "description": "Fleshed out alt system with auto login that syncs with each alts password.",
+        "date": "03/20/26"
+    },
+    {
+        "title": "This only the beta.",
+        "description": "The client is only in its beta and there are plenty of features that are planned to be added in the full release, stay tuned.",
+        "date": "03/28/26"
+    }
+]
