@@ -1,2 +1,2 @@
 # EntropyX
-Eaglercraft hacked client.
+Eaglercraft hacked client beta.
